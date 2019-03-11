@@ -1,23 +1,23 @@
-msg:
+devguide:
   greeting: "안녕하세요. account default"
 
 ---
 
 spring:
   profiles: stage
-msg:
+devguide:
   greeting: "안녕하세요. account stage"
 
 ---
 
 spring:
   profiles: dev
-msg:
+devguide:
   greeting: "안녕하세요. account dev"
 
 ---
 
 spring:
   profiles: local
-msg:
+devguide:
   greeting: "안녕하세요. account local"
