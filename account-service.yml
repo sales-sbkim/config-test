@@ -20,4 +20,4 @@ devguide:
 spring:
   profiles: local
 devguide:
-  greeting: "안녕하세요. account local"
+  greeting: "HI!. account local"
