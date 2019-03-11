@@ -1,1 +1,19 @@
-greeting: "안녕하세요. account"
+greeting: "안녕하세요. account default"
+
+---
+
+spring:
+  profiles: stage
+greeting: "안녕하세요. account stage"
+
+---
+
+spring:
+  profiles: dev
+greeting: "안녕하세요. account dev"
+
+---
+
+spring:
+  profiles: local
+greeting: "안녕하세요. account local"
