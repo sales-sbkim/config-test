@@ -1,3 +1,6 @@
+
+greeting: "just one"
+
 msg:
   greeting: "안녕하세요. account default"
 
